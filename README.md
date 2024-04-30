@@ -18,7 +18,8 @@ After that, I went into my git hub, created repositories for my Web-API, and con
 Then, I open the folder using Visual Studio code to make my index.html and style.css, and Javascript to use my project.
 I used my git bash to commit my work and pushed each time I made something new in my Task-Board project. I also used weather API to get the key.
 https://lemontag.github.io/SVG-Logo-Maker/
-![127 0 0 1_5500_logo svg - Google Chrome 4_29_2024 9_00_46 PM](https://github.com/LemonTag/SVG-Logo-Maker/assets/50891761/61b0954f-2ca6-4f59-a360-48c21281e549)
+![Editing SVG-Logo-Maker_README md at main · LemonTag_SVG-Logo-Maker - Google Chrome 4_30_2024 10_12_06 AM](https://github.com/LemonTag/SVG-Logo-Maker/assets/50891761/5029ce89-bc57-47e3-a14f-ef938cd0de4d)
+
 
 
 # credits
