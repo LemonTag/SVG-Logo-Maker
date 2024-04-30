@@ -35,9 +35,8 @@ class CLI {
 
                 // Set common properties for shapes and text
                 text.setFill('green');
-                text.setFont('sans');
+                text.setFont('40px');
                 text.setText(answers.text);
-
                 let shape;
 
                 // Create a shape based on user choice
@@ -58,9 +57,9 @@ class CLI {
 
                 // Set color for the shape
                 shape.setColor('green');
-
-                const svgString = `${shape.render()}${text.render()}`;
-
+                
+                const svgString = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="300" height="200"> ${shape.render()}${text.render()} </svg>`;
+                console.log(svgString)
                 return writeFile('logo.svg', svgString);
             })
             .then(() => {

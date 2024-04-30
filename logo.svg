@@ -1,1 +1,1 @@
-<circle cx="0" cy="20" r="70" fill="green"/><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="300" height="200"> <rect width="200" height="200" style="fill:green" /> <text x="150" y="125" style="font-size: sanspx; text-anchor: middle">sans</text> </svg>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="300" height="200"> <circle cx="0" cy="20" r="70" fill="green"/><text x="150" y="125" style="font-size: 40pxpx;  middle">sans</text> </svg>
