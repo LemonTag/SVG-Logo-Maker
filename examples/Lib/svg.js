@@ -27,7 +27,7 @@ class Svg {
 class Text extends Svg {
     render() {
         //Use font properties set in Svg class
-        return `<text x="150" y="125" style="font-size: ${this.fontSize}px;  middle">${this.text}</text>`;}
+        return `<text x="150" y="125" font-size="${this.fontSize}" text-anchor="middle">${this.text}</text>`;}
     }
 
     module.exports = {

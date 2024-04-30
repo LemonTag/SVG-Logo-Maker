@@ -5,8 +5,8 @@ const { Circle, Triangle, Square } = require("./shapes");
 
 const shapeChoices = [
     { name: 'circle', value: 'circle' },
-    { name: 'triangle', value: 'polygon' },
-    { name: 'square', value: 'rect' }
+    { name: 'triangle', value: 'triangle' },
+    { name: 'square', value: 'square' }
 ];
 
 class CLI {
@@ -35,7 +35,7 @@ class CLI {
 
                 // Set common properties for shapes and text
                 text.setFill('green');
-                text.setFont('40px');
+                text.setFont('60');
                 text.setText(answers.text);
                 let shape;
 

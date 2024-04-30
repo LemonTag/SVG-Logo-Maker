@@ -28,7 +28,7 @@ class Shape {
 class Circle extends Shape {
     //when the person picks the shape 
     render(){
-        return `<circle cx="0" cy="20" r="70" fill="${this.color}"/>`
+        return `<circle cx="150" cy="100" r="80" fill="${this.color}"/>`
     }
 }
 
