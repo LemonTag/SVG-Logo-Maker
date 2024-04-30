@@ -2,15 +2,15 @@
 This is the Day 10 challenge
 # Description
 What was my motivation?
-My motivation was learning how to build an logo with using node. It helped me understand what API is and how to work on it javascript
+My motivation was learning how to build a logo using node. It helped me understand what API is and how to work on it javascript
 Why did you build this project?
 I built this project to understand how to use node.js.
 What problems does it solve?
-The problem it opens is that you have to use the right function and correct was of spelling becuase then node won't have a clue on what you jsut wrote. It helped me solved my mistakes of mispelling and how to use functions.
+The problem it opens is that you have to use the right function and correct spelling because then node won't have a clue about what you just wrote. It helped me solve my mistakes of mispelling and learn how to use functions.
 What did I learn?
-I learned about node and using the teremal as well.
+I learned about nodes and using the thermal as well.
 What makes your project stand out?
-My project stands out because it shows the way the user can pick their shape, color and font they want to use. 
+My project stands out because it shows how the user can pick the shape, color, and font they want. 
 
 # Installation
 What I did was open git labs, and I made a git clone of the challenges I had to do into a separate folder, which I then made into my Challenges folder. 
@@ -19,7 +19,8 @@ Then, I open the folder using Visual Studio code to make my index.html and style
 I used my git bash to commit my work and pushed each time I made something new in my Task-Board project. I also used weather API to get the key.
 https://lemontag.github.io/SVG-Logo-Maker/
 ![Editing SVG-Logo-Maker_README md at main · LemonTag_SVG-Logo-Maker - Google Chrome 4_30_2024 10_12_06 AM](https://github.com/LemonTag/SVG-Logo-Maker/assets/50891761/5029ce89-bc57-47e3-a14f-ef938cd0de4d)
-
+https://github.com/LemonTag/SVG-Logo-Maker/edit/main/README.md
+https://lemontag.github.io/SVG-Logo-Maker/
 
 
 # credits
@@ -42,7 +43,7 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+THE SOFTWARE IS PROVIDED "AS IS"WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
