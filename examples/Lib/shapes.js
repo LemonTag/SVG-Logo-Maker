@@ -34,14 +34,14 @@ class Circle extends Shape {
 
 class Triangle extends Shape {
     render(){
-        return `<polygon points="-5,-10 -50, 100 60, 100" fill="${this.color}"/>`
+        return `<polygon points="150, 18 244, 182 56, 182" fill="green"/>`
     }
 }
 
 class Square extends Shape {
     //Use font properties set in Svg class
     render(){
-        return `<rect x="-50" y="-50" rx="0" width="100" height="100" fill="${this.color}"/>`
+        return `<rect x="90" y="40" width="120" height="120" fill="green"/>`
     }
 }
 module.exports = {

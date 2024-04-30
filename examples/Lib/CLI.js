@@ -34,7 +34,7 @@ class CLI {
                 const text = new Text();
 
                 // Set common properties for shapes and text
-                text.setFill('green');
+                text.setFill('white');
                 text.setFont('60');
                 text.setText(answers.text);
                 let shape;
